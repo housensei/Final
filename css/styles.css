@@ -6953,6 +6953,22 @@
             }
         }
         
+        .silex-id-1503689620689-0 {
+            width: 114px;
+            background-color: rgb(255, 255, 255);
+            min-height: 23px;
+            top: 597px;
+            left: 662px;
+        }
+        
+        @media only screen and (max-width: 480px),
+        only screen and (max-device-width: 480px) {
+            .silex-id-1503689620689-0 {
+                left: 444px;
+                top: 3954px;
+            }
+        }
+        
         .silex-id-1500936104983-8 {
             top: 1844px;
             left: 5px;
@@ -9773,7 +9789,7 @@
         .silex-id-1503683021388-158 {
             width: 944px;
             background-color: rgba(255, 255, 255, 1);
-            min-height: 400px;
+            min-height: 500px;
             top: 16px;
             left: 129px;
         }
