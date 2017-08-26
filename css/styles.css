@@ -541,23 +541,6 @@
             }
         }
         
-        .silex-id-1497660082428-1 {
-            width: 527px;
-            min-height: 348px;
-            top: 432px;
-            left: -70px;
-        }
-        
-        @media only screen and (max-width: 480px),
-        only screen and (max-device-width: 480px) {
-            .silex-id-1497660082428-1 {
-                top: 2780px;
-                left: 33px;
-                width: 417px;
-                min-height: 290px;
-            }
-        }
-        
         .silex-id-1439555805111-72 {
             width: 351px;
             top: 773px;
@@ -636,6 +619,13 @@
                 top: 4834px;
                 width: 400px;
             }
+        }
+        
+        .silex-id-1503708823287-2 {
+            width: 527px;
+            min-height: 348px;
+            top: 432px;
+            left: -103px;
         }
         
         .silex-id-1484951945204-7 {
